@@ -51,14 +51,7 @@ A dark, underground-themed web application celebrating National Sailing Day with
 - Navigation Challenge
 - Regatta Awards Dinner
 
-## 🌑 Dark Underground Theme
-
-The app features a mysterious, underground aesthetic with:
-- Pure black backgrounds with red accent colors
-- Glowing text effects and shadows
-- Sharp, angular design elements
-- Grid pattern overlays
-- Industrial, edgy typography
+## 🌑 nautical theme (navy blue & gold)
 
 ## 🛠️ Technical Features
 
